@@ -20,6 +20,7 @@ makeCacheMatrix <- function(x = matrix()) {
 }
 
 
+
 ## This function first checks if the inverse of the given matrix x already exists
 ## and returns cached inverse matrix if there is one else calculates the inverse
 ## and caches it for later retrieval
